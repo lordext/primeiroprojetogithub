@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(imgfundo.jpg);
+    background-size: cover;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    letter-spacing: 4px;
+    text-shadow: 3px 3px 3px black;
+    margin-top: 20%;
+}
