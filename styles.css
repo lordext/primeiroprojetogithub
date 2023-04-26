@@ -3,13 +3,20 @@ body{
     padding: 0;
     background-image: url(imgfundo.jpg);
     background-size: cover;
-}
-p{
     font-family: Arial, Helvetica, sans-serif;
+}
+.frase{
     font-size: 80px;
     color: white;
     text-align: center;
     letter-spacing: 4px;
     text-shadow: 3px 3px 3px black;
-    margin-top: 20%;
+    margin-top: 17%;
+}
+.traducao{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 2px black;
 }
